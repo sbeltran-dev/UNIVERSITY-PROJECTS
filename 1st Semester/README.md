@@ -3,13 +3,13 @@
 This folder contains all projects and assignments from my first semester.
 
 ## Courses:
-- **Systems Development I** - Software development fundamentals and system design
-- **Computer Fundamentals I** - Programming basics, algorithms, and data structures
+- **Systems Development I**
+- **Computer Fundamentals I**
 
 ## Semester Period:
-August 2024 - December 2024
+August 2025 - December 2025
 
 ## Languages Used:
-- Java
-- C
-- Python
+- Java.
+- C.
+- Python.
