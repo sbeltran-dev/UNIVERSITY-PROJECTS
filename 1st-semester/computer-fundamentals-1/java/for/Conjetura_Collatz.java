@@ -28,4 +28,5 @@ public class Conjetura_Collatz {
         }
         input.close();
     }
+
 }
