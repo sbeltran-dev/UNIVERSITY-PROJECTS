@@ -1,7 +1,8 @@
 /*
-Hacer un programa en Java que aplique programación orientada a objetos, en la que simule las operaciones de un banco. Crear constructores y métodos para
-ingresar y retirar dinero de la cuenta. Se sugiere pedir el nombre del titular, la cantidad a depositar / retirar, el saldo inicial y el saldo.
+Create a Java program that applies object-oriented programming, in which it simulates the operations of a bank. Create constructors and methods to
+deposit and withdraw money from the account. It is suggested to ask for the account holder's name, the amount to deposit / withdraw, the initial balance, and the balance.
 */
+
 import java.util.Scanner;
 
 public class Main {
@@ -42,6 +43,7 @@ public class Main {
                     break;
             }
         } while (option != 0);
+
         input.close();
     }
 }
