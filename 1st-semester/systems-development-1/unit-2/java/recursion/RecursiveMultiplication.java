@@ -1,10 +1,12 @@
 /*
-4. Escribir un programa en Java, que use un método recursivo que permita hacer una multiplicación, utilizando el método Ruso.
+4. Write a Java program that uses a recursive method to perform a multiplication using the Russian method.
  */
+
 public class RecursiveMultiplication {
     public static void main (String[] args) {
         System.out.println(multiplication(24, 16));
     }
+
     static int multiplication (int a, int b) {
         if (a == 1) {
             return b; // * When te functions reaches this condition, it will return the total value of b.
