@@ -1,6 +1,7 @@
 /*
-3. Escribir un programa en Java, que use un método recursivo vocales para calcular el numero de vocales de una cadena (String).
+3. Write a Java program that uses a recursive method called vocals to calculate the number of vowels in a string (String).
  */
+
 public class StringVocals {
     public static void main (String[] args) {
         System.out.println(vocalsCount("Juan"));
@@ -10,6 +11,7 @@ public class StringVocals {
         if (word.length() == 0) { // * Base case. When the string is empty, the function will stop calling itself.
             return 0;
         }
+
         // * Evaluates the first character.
         char firstChar = word.charAt(0);
 
