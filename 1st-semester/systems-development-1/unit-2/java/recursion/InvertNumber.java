@@ -1,6 +1,7 @@
 /*
-2. Escribir un programa en Java, que use un método recursivo que permita invertir un número.
+2. Write a Java program that uses a recursive method to reverse a number.
  */
+
 public class InvertNumber {
     public static void main (String[] args) {
         System.out.println(invert(12));
